@@ -17,8 +17,8 @@
 ## 🔗 Links do Projeto
 
 <p align="center">
-  🎥 [Vídeo Pitch](https://www.youtube.com/watch?v=hJtzmacejsQ) 
-  📊 [Dashboard](https://lookerstudio.google.com/reporting/568094d8-701c-4f43-a50e-d9685809a0b5/page/p_noooayy3vd)
+  - 🎥 [Vídeo Pitch](https://www.youtube.com/watch?v=hJtzmacejsQ) 
+  - 📊 [Dashboard](https://lookerstudio.google.com/reporting/568094d8-701c-4f43-a50e-d9685809a0b5/page/p_noooayy3vd)
 </p>
 
 ## 📌 Contextualização
