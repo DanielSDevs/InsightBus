@@ -1,7 +1,8 @@
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/e93a8441-3620-4a40-a7b5-7729b093a364" alt="InsightBus Logo" width="50%"/>
-  <img src="https://github.com/user-attachments/assets/b2501ba0-206a-48ad-adb6-517673099a61" alt="Dashboard InsightBus" width="50%"/>
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e93a8441-3620-4a40-a7b5-7729b093a364" alt="InsightBus Logo" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/b2501ba0-206a-48ad-adb6-517673099a61" alt="Dashboard InsightBus" width="45%"/>
+</p>
+
 
 # 🚍 InsightBus – Segmentação Inteligente de Clientes
 
