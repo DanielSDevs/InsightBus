@@ -7,9 +7,10 @@
 # 🚍 InsightBus – Segmentação Inteligente de Clientes
 
 ## 👨‍💻 Autores
-- Daniel Silva Alves  
-- Jean Ferreira dos Santos  
-- Matheus Camati Velkis Toledo Piza 
+- TURMA: 1TSCPW
+- DANIEL SILVA ALVES - RM565770
+- JEAN FERREIRA DOS SANTOS - RM564347
+- MATHEUS CAMATI VELKIS TOLEDO PIZA - RM562991
 
 ---
 
