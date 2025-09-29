@@ -46,7 +46,8 @@ O **InsightBus** é um **dashboard interativo** que:
 
 ## ⚙️ Proposta Técnica
 - **Clusterização**: `scikit-learn` (K-Means, DBSCAN) + regras heurísticas  
-- **Predição**: regressão linear simples e scorecards  
+- **Predição**: regressão linear simples e scorecards
+- Cálculo da próxima compra e target binário (0/1) para recompra em 30 dias
 - **Visualização**: [Looker Studio](https://lookerstudio.google.com/)  
 - **Armazenamento**: CSV local + [Google Cloud Storage](https://cloud.google.com/storage) / [BigQuery](https://cloud.google.com/bigquery)  
 - **Ambiente**: [Google Colab](https://colab.research.google.com/) + [GitHub](https://github.com)
