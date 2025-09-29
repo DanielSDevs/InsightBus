@@ -45,7 +45,7 @@ O **InsightBus** é um **dashboard interativo** que:
 - **Ambiente**: [Google Colab](https://colab.research.google.com/) + [GitHub](https://github.com)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f4ac6e4b-aef9-4608-b962-8c772bc28b9e" alt="Captura de tela" width="500"/>
+  <img src="https://github.com/user-attachments/assets/f4ac6e4b-aef9-4608-b962-8c772bc28b9e" alt="Captura de tela" width="800"/>
 </p>
 
 
