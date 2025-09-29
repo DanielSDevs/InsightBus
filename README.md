@@ -42,7 +42,9 @@ O **InsightBus** é um **dashboard interativo** que:
 - **Predição**: regressão linear simples e scorecards  
 - **Visualização**: [Looker Studio](https://lookerstudio.google.com/)  
 - **Armazenamento**: CSV local + [Google Cloud Storage](https://cloud.google.com/storage) / [BigQuery](https://cloud.google.com/bigquery)  
-- **Ambiente**: [Google Colab](https://colab.research.google.com/) + [GitHub](https://github.com)  
+- **Ambiente**: [Google Colab](https://colab.research.google.com/) + [GitHub](https://github.com)
+- 
+<img width="1039" height="503" alt="Captura de tela 2025-09-29 195338" src="https://github.com/user-attachments/assets/f4ac6e4b-aef9-4608-b962-8c772bc28b9e" />
 
 ---
 
@@ -65,16 +67,6 @@ O **InsightBus** é um **dashboard interativo** que:
 - Aumento da **taxa de conversão** em campanhas promocionais.  
 - Crescimento da base de **clientes recorrentes**.  
 - Direcionamento mais assertivo de campanhas.  
-
----
-
-## 🆚 Comparativo com Concorrentes
-
-| Plataforma | Foco | Diferença em relação ao InsightBus |
-|------------|------|------------------------------------|
-| [Amadeus Travel Intelligence](https://amadeus.com) | Dados do setor de viagens | Solução global e ampla, não focada no cliente ClickBus |
-| [RateGain](https://rategain.com) | Pricing e demanda (hotéis/transportes) | Voltado para precificação, não segmentação comportamental |
-| [ForwardKeys](https://forwardkeys.com) | Previsões de viagens com big data | Abordagem macro, enquanto o InsightBus é direto e aplicável ao cliente da ClickBus |
 
 ---
 
