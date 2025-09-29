@@ -14,6 +14,12 @@
 
 ---
 
+## 🔗 Links do Projeto
+
+<p align="center">
+  🎥 [Vídeo Pitch](https://www.youtube.com/watch?v=hJtzmacejsQ) | 📊 [Dashboard](https://lookerstudio.google.com/reporting/568094d8-701c-4f43-a50e-d9685809a0b5/page/p_noooayy3vd)
+</p>
+
 ## 📌 Contextualização
 A **ClickBus**, maior plataforma online de venda de passagens rodoviárias do Brasil, recebe mais de **170 mil visitantes diários**.  
 Apesar desse volume, ainda enfrenta dificuldades em **personalizar a jornada do cliente** devido à falta de segmentação clara baseada em comportamento de compra.  
