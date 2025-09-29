@@ -43,8 +43,9 @@ O **InsightBus** é um **dashboard interativo** que:
 - **Visualização**: [Looker Studio](https://lookerstudio.google.com/)  
 - **Armazenamento**: CSV local + [Google Cloud Storage](https://cloud.google.com/storage) / [BigQuery](https://cloud.google.com/bigquery)  
 - **Ambiente**: [Google Colab](https://colab.research.google.com/) + [GitHub](https://github.com)
-- 
-<img src="https://github.com/user-attachments/assets/f4ac6e4b-aef9-4608-b962-8c772bc28b9e" alt="Captura de tela" width="500"/>
+
+<center><img src="https://github.com/user-attachments/assets/f4ac6e4b-aef9-4608-b962-8c772bc28b9e" alt="Captura de tela" width="500"/></center>
+
 
 ---
 
