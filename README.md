@@ -1,3 +1,5 @@
+![InsightBus Logo](https://github.com/user-attachments/assets/e93a8441-3620-4a40-a7b5-7729b093a364)
+<img width="955" height="531" alt="Dashboard InsightBus" src="https://github.com/user-attachments/assets/b2501ba0-206a-48ad-adb6-517673099a61" />
 # 🚍 InsightBus – Segmentação Inteligente de Clientes
 
 ## 👨‍💻 Autores
