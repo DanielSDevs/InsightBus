@@ -44,7 +44,7 @@ O **InsightBus** é um **dashboard interativo** que:
 - **Armazenamento**: CSV local + [Google Cloud Storage](https://cloud.google.com/storage) / [BigQuery](https://cloud.google.com/bigquery)  
 - **Ambiente**: [Google Colab](https://colab.research.google.com/) + [GitHub](https://github.com)
 - 
-<img width="1039" height="503" alt="Captura de tela 2025-09-29 195338" src="https://github.com/user-attachments/assets/f4ac6e4b-aef9-4608-b962-8c772bc28b9e" />
+<img src="https://github.com/user-attachments/assets/f4ac6e4b-aef9-4608-b962-8c772bc28b9e" alt="Captura de tela" width="500"/>
 
 ---
 
